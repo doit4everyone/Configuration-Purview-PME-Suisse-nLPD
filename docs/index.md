@@ -28,8 +28,8 @@ Il s'accompagne d'un guide d'exploitation remis directement au responsable IT du
 
 | Format | Lien |
 | --- | --- |
-| PDF | [Purview_MVC_PME_Suisse_v1.pdf](../Purview_MVC_PME_Suisse_v1.pdf) |
-| Word | [Purview_MVC_PME_Suisse_v1.docx](../Purview_MVC_PME_Suisse_v1.docx) |
+| PDF | [Purview_MVC_PME_Suisse_v1.pdf](https://github.com/doit4everyone/Configuration-Purview-PME-Suisse-nLPD/releases/latest/Purview_MVC_PME_Suisse_v1.pdf) |
+| Word | [Purview_MVC_PME_Suisse_v1.docx](https://github.com/doit4everyone/Configuration-Purview-PME-Suisse-nLPD/releases/latest/Purview_MVC_PME_Suisse_v1.docx) |
 
 ### Guide d'exploitation client *(à remettre au client à la fin du déploiement)*
 
