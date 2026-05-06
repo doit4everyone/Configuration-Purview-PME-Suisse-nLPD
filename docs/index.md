@@ -78,7 +78,7 @@ Ce guide propose une **procédure technique complète**, conçue pour installer 
 
 ### 📥 Téléchargement
 
-👉 **[Télécharger la procédure complète (v1.0)](https://github.com/doit4everyone/purview-mvc-pme-suisse/releases/latest)**
+👉 **[Télécharger la procédure complète (v1.0)](https://github.com/doit4everyone/Configuration-Purview-PME-Suisse-nLPD/releases/latest)**
 
 ---
 
