@@ -27,7 +27,9 @@ description: "Procédure technique de déploiement Microsoft Purview pour PME su
 </style>
 
 <h1 style="text-align: center;">Guide Minimum Viable de Conformité Microsoft Purview (2026)</h1>
-<h2 style="text-align: center;"><strong>Procédure de déploiement nLPD pour PME suisses 🇨🇭</h2>
+<h2 style="text-align: center;"><strong>Procédure de déploiement nLPD pour PME suisses 🇨🇭</strong></h2>
+
+<!-- LIGNE VIDE OBLIGATOIRE ICI -->
 
 Ce guide propose une **procédure technique complète**, conçue pour installer une conformité nLPD défendable chez une PME suisse de 5 à 25 personnes en une session de **4 à 6 heures**.
 
@@ -35,21 +37,21 @@ Ce guide propose une **procédure technique complète**, conçue pour installer 
 
 ### 🎯 Objectifs du déploiement
 
-*   Appliquer une **procédure de configuration** simplifiée et efficace.
-*   Garantir une protection des données **défendable devant le PFPDT**.
-*   Remettre un **guide d'exploitation** autonome adapté au secteur d'activité.
+* Appliquer une **procédure de configuration** simplifiée et efficace.
+* Garantir une protection des données **défendable devant le PFPDT**.
+* Remettre un **guide d'exploitation** autonome adapté au secteur d'activité.
 
 ---
 
 ### 🧩 Périmètre technique du MVC
 
-*   **MFA & Sécurité** : Durcissement des accès prioritaires.
-*   **Gouvernance SharePoint** : Blocage des partages externes non maîtrisés.
-*   **Classification** : Déploiement de 2 étiquettes (Interne / Confidentiel).
-*   **Auto-labelling** : Détection automatisée (AVS, IBAN, Médical) en 4 langues.
-*   **Prévention (DLP)** : Blocage et justification des flux de données sensibles.
-*   **Conservation** : Rétention légale 10 ans (CO art. 958f).
-*   **Audit** : Activation de la traçabilité complète pour les rapports nLPD.
+* **MFA & Sécurité** : Durcissement des accès prioritaires.
+* **Gouvernance SharePoint** : Blocage des partages externes non maîtrisés.
+* **Classification** : Déploiement de 2 étiquettes (Interne / Confidentiel).
+* **Auto-labelling** : Détection automatisée (AVS, IBAN, Médical) en 4 langues.
+* **Prévention (DLP)** : Blocage et justification des flux de données sensibles.
+* **Conservation** : Rétention légale 10 ans (CO art. 958f).
+* **Audit** : Activation de la traçabilité complète pour les rapports nLPD.
 
 ---
 
