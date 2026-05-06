@@ -31,7 +31,7 @@ description: "Procédure technique de déploiement Microsoft Purview pour PME su
 
 <!-- LIGNE VIDE OBLIGATOIRE ICI -->
 
-Ce guide propose une **procédure technique complète**, conçue pour installer une conformité nLPD défendable chez une PME suisse de 5 à 25 personnes en une session de **4 à 6 heures**.
+Ce guide propose une **procédure technique complète**, conçue pour installer une conformité nLPD défendable dans une PME suisse de 5 à 25 personnes en une session de **4 à 6 heures**.
 
 ---
 
