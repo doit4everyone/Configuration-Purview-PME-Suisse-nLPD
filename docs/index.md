@@ -22,21 +22,9 @@ Il s'accompagne d'un guide d'exploitation remis directement au responsable IT du
 
 ---
 
-## 📥 Télécharger les documents
+## 📥 Téléchargement
 
-### Guide de déploiement MVC *(pour le consultant)*
-
-| Format | Lien |
-| --- | --- |
-| PDF | [Purview_MVC_PME_Suisse_v1.pdf](https://github.com/doit4everyone/Configuration-Purview-PME-Suisse-nLPD/releases/tag/v1.0/Purview_MVC_PME_Suisse_v1.pdf) |
-| Word | [Purview_MVC_PME_Suisse_v1.docx](https://github.com/doit4everyone/Configuration-Purview-PME-Suisse-nLPD/releases/tag/v1.0/Purview_MVC_PME_Suisse_v1.docx) |
-
-### Guide d'exploitation client *(à remettre au client à la fin du déploiement)*
-
-| Format | Lien |
-| --- | --- |
-| PDF | [Purview_MVC_Guide_Exploitation_Client_v1.pdf](../Purview_MVC_Guide_Exploitation_Client_v1.pdf) |
-| Word | [Purview_MVC_Guide_Exploitation_Client_v1.docx](../Purview_MVC_Guide_Exploitation_Client_v1.docx) |
+👉 [Télécharger la documentation complète (v1.0)](https://github.com/doit4everyone/Configuration-Purview-PME-Suisse-nLPD/releases/latest)
 
 ---
 
