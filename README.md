@@ -137,7 +137,7 @@ Lire le [DISCLAIMER complet](DISCLAIMER.md).
 
 ## 🧭 Accès rapide
 
-🌐 Page de présentation : <https://doit4everyone.github.io/purview-mvc-pme-suisse/>
+🌐 Page de présentation : <https://doit4everyone.github.io/Configuration-Purview-PME-Suisse-nLPD/>
 
 🏠 Retrouvez tous les guides sur : <https://doit4everyone.github.io/>
 
