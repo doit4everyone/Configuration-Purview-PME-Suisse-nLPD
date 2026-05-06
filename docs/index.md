@@ -1,5 +1,5 @@
 ---
-canonical: https://doit4everyone.github.io/purview-mvc-pme-suisse/
+canonical: https://doit4everyone.github.io/Configuration-Purview-PME-Suisse-nLPD/
 meta-description: Guide MVC Microsoft Purview pour PME suisses — Minimum Viable de Conformité nLPD, déploiement en 4 à 6 heures, adaptations sectorielles incluses.
 title: Guide MVC Microsoft Purview (2026) | DoIt4Everyone
 ---
