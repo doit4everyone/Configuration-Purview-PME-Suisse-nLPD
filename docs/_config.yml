@@ -1,7 +1,7 @@
 title: "Guide MVC Purview 2026 - PME Suisse"
 description: "Procédure de déploiement rapide pour une conformité nLPD défendable en PME."
 url: "https://doit4everyone.github.io"
-baseurl: "/purview-mvc-pme-suisse"
+baseurl: "/Configuration-Purview-PME-Suisse-nLPD"
 
 theme: jekyll-theme-minimal
 
